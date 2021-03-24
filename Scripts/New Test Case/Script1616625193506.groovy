@@ -24,3 +24,5 @@ WebUI.click(findTestObject('Object Repository/Page_SEAPay88 - Admin/button_Login
 
 WebUI.closeBrowser()
 
+WebUI.acceptAlert()
+
